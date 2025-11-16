@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I am Tsania Zahira Soffa, a Multimedia Engineering Technology student at the Electronic Engineering Polytechnic Institute of Surabaya. I have experience in software development, IoT systems, and user interface design, gained through academic projects, competitions, and organizational activities. Passionate about innovation and teamwork, I aim to create efficient, technology-driven solutions while continuously developing my professional skills</h1>
 
 ###
 
